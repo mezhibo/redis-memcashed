@@ -29,6 +29,7 @@
 Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.
 
 Решение 3
+
 ![alt text](https://github.com/mezhibo/redis-memcashed/blob/9bea67b954f8d2c6ce8ff4ffe3b09df6789c3e89/IMG/2.jpg)
 
 
