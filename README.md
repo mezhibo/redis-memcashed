@@ -20,3 +20,25 @@
 Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.
 
 Решение 2
+![alt text](https://github.com/mezhibo/redis-memcashed/blob/6cafcd995387e5a2ba12dcbb57cc5f8094bf6f11/IMG/1.jpg)
+
+
+Задание 3. Удаление по TTL в Memcached
+Запишите в memcached несколько ключей с любыми именами и значениями, для которых выставлен TTL 5.
+
+Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.
+
+Решение 3
+![alt text](https://github.com/mezhibo/redis-memcashed/blob/9bea67b954f8d2c6ce8ff4ffe3b09df6789c3e89/IMG/2.jpg)
+
+
+
+Задание 4. Запись данных в Redis
+Запишите в Redis несколько ключей с любыми именами и значениями.
+
+Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.
+
+
+Решение 4
+
+![alt text](https://github.com/mezhibo/redis-memcashed/blob/378bd2011db037df211c8c8f228bf35d095d7ca9/IMG/3.jpg)
